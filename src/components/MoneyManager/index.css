@@ -1,0 +1,76 @@
+/* Write your CSS here */
+.d1 {
+  background-color: #ffffff;
+  height: 100%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.d4 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/money-manager/money-manager-bg.png');
+  height: auto;
+  width: 41%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 12px;
+}
+.f1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.li1 {
+  display: flex;
+  flex-direction: row;
+}
+.d7 {
+  display: flex;
+  flex-direction: row;
+}
+.d8 {
+  margin-right: 20px;
+  border: 2px #cbd5e1 solid;
+  padding: 20px;
+  border-radius: 12px;
+}
+.d9 {
+  margin-left: 20px;
+  border: 2px #cbd5e1 solid;
+  width: 350px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+}
+.p1 {
+  margin: 10px;
+}
+.bb1 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  margin-top: 10px;
+  padding: 5px;
+  border-radius: 6px;
+  width: 60px;
+  font-weight: bold;
+}
+.in1 {
+  height: 30px;
+}
+.l1 {
+  color: #7e858e;
+  font-size: 12px;
+  font-weight: bold;
+}
+.zzz {
+  margin-bottom: 10px;
+}
+.mm {
+  border: 2px black solid;
+}

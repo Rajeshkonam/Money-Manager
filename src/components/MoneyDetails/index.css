@@ -1,0 +1,43 @@
+/* Write your CSS here */
+.d2 {
+  display: flex;
+  flex-direction: row;
+}
+.img1 {
+  height: 50px;
+  width: 50px;
+}
+.d3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 2px #84cc16 solid;
+  margin: 10px;
+  border-radius: 12px;
+  padding: 12px;
+}
+.d5 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 2px #06b6d4 solid;
+  margin: 10px;
+  border-radius: 12px;
+  padding: 12px;
+}
+
+.d6 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: 2px #7c3aed solid;
+  margin: 10px;
+  border-radius: 12px;
+  padding: 12px;
+}
+.xx {
+  margin: 20px;
+}
